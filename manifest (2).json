@@ -1,0 +1,10 @@
+{
+  "name": "L'Atelier des Sens by Ichane Trade",
+  "short_name": "Atelier des Sens",
+  "description": "Carte de visite digitale",
+  "start_url": "/scan.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#DAA520",
+  "orientation": "portrait"
+}
